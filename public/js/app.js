@@ -1,4 +1,4 @@
-console.log("Client side javascript file is loaded... !!!  ");
+// console.log("Client side javascript file is loaded... !!!  ");
 
 // fetch('https://api.restful-api.dev/objects?id=3&id=5&id=10').then(response=>{
 //     response.json().then(data=>{
